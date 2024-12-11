@@ -1,0 +1,33 @@
+_application PolyhedralFan
+_version 2.2
+_type PolyhedralFan
+
+AMBIENT_DIM
+2
+
+LINEALITY_DIM
+0
+
+RAYS
+1 -1	# 0
+1 1	# 1
+
+N_RAYS
+2
+
+LINEALITY_SPACE
+
+ORTH_LINEALITY_SPACE
+-1 0	# 0
+0 -1	# 1
+
+F_VECTOR
+2
+
+CONES
+{0}	# Dimension 1
+{1}
+
+MAXIMAL_CONES_OF_CLOSURE
+{0}	# Dimension 1
+{1}
